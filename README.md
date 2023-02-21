@@ -1,5 +1,7 @@
 # Magazine, Article, and Author Ruby Code Challenge
 
+##  To run test use <ruby bin/run.rb>
+
 This is a Ruby code challenge that involves implementing a simple data model for a magazine, article, and author using object-oriented programming principles.
 
 ## Installation and Setup
