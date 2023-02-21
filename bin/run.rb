@@ -37,3 +37,4 @@ carl.add_article(ket_magazine,"new-article")
 # pp ket_magazine.article_titles
 
 pp ket_magazine.contributing_authors
+ pp Article.all
